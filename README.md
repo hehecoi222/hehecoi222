@@ -37,7 +37,7 @@
                 <a href="https://go.dev/" target="_blank"><img height="50"
                         src="https://go.dev/images/gophers/pilot-bust.svg"></a>
                 <br>
-                <hr align="center" width="50%">
+               <div align="center"><hr width="50%"></div>
             </li>
             <li class="interest-item">
                 <p>
@@ -49,7 +49,7 @@
                 <a href="https://www.typescriptlang.org/" target="_blank"><img height="50"
                         src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg"></a>
                 <br>
-                <hr align="center" width="50%">
+                <div align="center"><hr width="50%"></div>
             </li>
             <li class="interest-item">
                 <p>
@@ -58,7 +58,7 @@
                     hơi rời rạc chút xíu
                 </p>
                 <br>
-                <hr align="center" width="50%">
+                <div align="center"><hr width="50%"></div>
             </li>
         </ul>
         <div align="center"><i>Còn nhiều thứ khác nữa</i></div>
