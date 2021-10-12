@@ -53,7 +53,7 @@
             </li>
             <li class="interest-item">
                 <p>
-                    Cloud Infrastructure, CI&CD, ...: Có lẽ do trong cộng đồng Go phổ biến nhất vẫn là quản lý xây dựng
+                    Cloud Infrastructure, CI&CD, Ops ...: Có lẽ do trong cộng đồng Go phổ biến nhất vẫn là quản lý xây dựng
                     hệ thống nền nên tìm hiểu cái này khá thú vị. Nhưng mình không chắc chắn vì cảm thấy những phần này
                     hơi rời rạc chút xíu
                 </p>
