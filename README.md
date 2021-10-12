@@ -17,7 +17,6 @@
             đi xa đầu tiên&nbsp;&#9992;. Và từ đó mình tiếp cận tìm hiểu nó nhiều hơn để hiểu sâu về nó. Mỗi ngày tìm
             tòi mình càng nhận ra <em><b>kiến thức là vô biên&nbsp;</b></em>&#129327;
         </p>
-        <hr>
     </section>
     <section id="current">
         <h2>
@@ -38,7 +37,7 @@
                 <a href="https://go.dev/" target="_blank"><img height="50"
                         src="https://go.dev/images/gophers/pilot-bust.svg"></a>
                 <br>
-                <hr width="50%">
+                <hr align="center" width="50%">
             </li>
             <li class="interest-item">
                 <p>
@@ -50,7 +49,7 @@
                 <a href="https://www.typescriptlang.org/" target="_blank"><img height="50"
                         src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg"></a>
                 <br>
-                <hr width="50%">
+                <hr align="center" width="50%">
             </li>
             <li class="interest-item">
                 <p>
@@ -59,11 +58,10 @@
                     hơi rời rạc chút xíu
                 </p>
                 <br>
-                <hr width="50%">
+                <hr align="center" width="50%">
             </li>
         </ul>
-        <div align="center"><i>Còn nhiều thứ khác nhưng nhỏ quá</i></div>
-        <hr>
+        <div align="center"><i>Còn nhiều thứ khác nữa</i></div>
     </section>
     <section id="vision">
         <h2>
