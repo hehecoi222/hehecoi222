@@ -99,30 +99,9 @@
                     src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" /> &nbsp; &nbsp;
             </a>
         </p>
-        <p align="center"><a href="https://github.com/hehecoi222"><svg xmlns="http://www.w3.org/2000/svg"
-                    xmlns:xlink="http://www.w3.org/1999/xlink" width="92" height="20" role="img"
-                    aria-label="GitHub: Profile">
-                    <title>GitHub: Profile</title>
-                    <linearGradient id="s" x2="0" y2="100%">
-                        <stop offset="0" stop-color="#bbb" stop-opacity=".1" />
-                        <stop offset="1" stop-opacity=".1" />
-                    </linearGradient>
-                    <clipPath id="r">
-                        <rect width="92" height="20" rx="3" fill="#fff" />
-                    </clipPath>
-                    <g clip-path="url(#r)">
-                        <rect width="47" height="20" fill="#555" />
-                        <rect x="47" width="45" height="20" fill="#007ec6" />
-                        <rect width="92" height="20" fill="url(#s)" />
-                    </g>
-                    <g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif"
-                        text-rendering="geometricPrecision" font-size="110"><text aria-hidden="true" x="245" y="150"
-                            fill="#010101" fill-opacity=".3" transform="scale(.1)" textLength="370">GitHub</text><text
-                            x="245" y="140" transform="scale(.1)" fill="#fff" textLength="370">GitHub</text><text
-                            aria-hidden="true" x="685" y="150" fill="#010101" fill-opacity=".3" transform="scale(.1)"
-                            textLength="350">Profile</text><text x="685" y="140" transform="scale(.1)" fill="#fff"
-                            textLength="350">Profile</text></g>
-                </svg></a></p>
+        <p align="center"><a href="https://github.com/hehecoi222">
+        [![GitHub](https://img.shields.io/badge/GitHub-heheco222-blue.svg?style=flat)](https://github.com/hehecoi222/)   
+        </p>
     </section>
 </body>
 
