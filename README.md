@@ -100,7 +100,8 @@
             </a>
         </p>
         <p align="center"><a href="https://github.com/hehecoi222">
-        [![GitHub](https://img.shields.io/badge/GitHub-heheco222-blue.svg?style=flat)]  
+        <img alt="Hieu's GitHub"
+                    src="https://img.shields.io/badge/GitHub-hehecoi222-blue.svg?style=flat" />  
         </p>
     </section>
 </body>
