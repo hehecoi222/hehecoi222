@@ -13,7 +13,7 @@
         <p id="short-intro-p">
             Đây là trang giới thiệu của Nguyễn Hiếu nè. Hiện tại mình là sinh viên năm nhất trường Đại học Công nghệ -
             Đại học Quốc gia Hà Nội, hay có tên tiếng Anh là<a href="https://uet.vnu.edu.vn"> University of
-                Engineering</a>&nbsp;<img src="logo2_new.png" alt="UET logo" width="18px"/> . Máy tính là một thứ gì đó đến với mình khá là bất ngờ, cũng nhờ có chuyến
+                Engineering and Technology</a>&nbsp;<img src="logo2_new.png" alt="UET logo" width="18px"/> . Máy tính là một thứ gì đó đến với mình khá là bất ngờ, cũng nhờ có chuyến
             đi xa đầu tiên&nbsp;&#9992;. Và từ đó mình tiếp cận tìm hiểu nó nhiều hơn để hiểu sâu về nó. Mỗi ngày tìm
             tòi mình càng nhận ra <em><b>kiến thức là vô biên&nbsp;</b></em>&#129327;
         </p>
