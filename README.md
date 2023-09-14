@@ -20,11 +20,8 @@
     </section>
     <section id="current">
         <h2>
-            Con người hiện tại
+            Quan tâm hiện tại
         </h2>
-        <p>
-            Mình của hiện tại vẫn chưa đi được xa, nhưng do mình mà tạo thành cả.
-        </p>
         <ul id="interest">
             <h3>
                 Các vấn đề mình quan tâm:
