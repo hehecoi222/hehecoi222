@@ -29,7 +29,7 @@
             <h3>
                 Các vấn đề mình quan tâm:
             </h3>
-            <li class="interest-item">
+<!--             <li class="interest-item">
                 <p>Go &#128153;: Thực sự đây là cộng đồng đầu tiên mình gia nhập và mọi người rất thân
                     thiện. Còn nhớ buổi đầu vô Online Go Coffee của Gophers Seattle mà rén dữ, giờ lại hóng meeting
                     tháng 10 này
@@ -59,7 +59,7 @@
                 </p>
                 <br>
                 <div align="center"><hr width="50%"></div>
-            </li>
+            </li> -->
         </ul>
         <div align="center"><i>Còn nhiều thứ khác nữa</i></div>
     </section>
